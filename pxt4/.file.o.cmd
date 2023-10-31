@@ -1032,6 +1032,7 @@ deps_/home/ljh102715/linux_practice/pxt4/file.o := \
   include/uapi/linux/posix_acl_xattr.h \
   include/linux/posix_acl.h \
   include/uapi/linux/posix_acl.h \
+  /home/ljh102715/linux_practice/pxt4/calclock.h \
 
 /home/ljh102715/linux_practice/pxt4/file.o: $(deps_/home/ljh102715/linux_practice/pxt4/file.o)
 
